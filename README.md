@@ -19,17 +19,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AuraHamza&show_icons=true&theme=tokyonight" alt="Hamza's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AuraHamza&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📚 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuraHamza&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌱 What I'm Working On
-- 🚀 Building front-end mini projects with HTML/CSS
-- 🔄 Practicing Java with Object-Oriented Concepts
-- 🔧 Learning Git, GitHub & Open Source Basics
+- 🚀 Building front-end mini projects using HTML & CSS
+- 🔄 Practicing Java OOP Concepts
+- 🧠 Learning Git, GitHub, and version control fundamentals
 
 ---
 
